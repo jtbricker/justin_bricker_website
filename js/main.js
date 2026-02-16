@@ -3,12 +3,10 @@
     const toggle = document.getElementById('theme-toggle');
     const html = document.documentElement;
 
-    // Check saved preference or system preference
-    const saved = localStorage.getItem('theme');
+    // Check saved preference (default is dark for Slate theme)
+    var saved = localStorage.getItem('theme');
     if (saved) {
         html.setAttribute('data-theme', saved);
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        html.setAttribute('data-theme', 'dark');
     }
 
     toggle.addEventListener('click', function () {
@@ -70,7 +68,7 @@
 (function () {
     // Add fade-in class to animatable elements
     var animatable = document.querySelectorAll(
-        '.timeline-item, .skill-category, .project-card, .education-card, .about-content, .contact-content'
+        '.timeline-item, .skill-category, .project-card, .education-card, .publication-item, .about-content, .contact-content'
     );
     animatable.forEach(function (el) {
         el.classList.add('fade-in');
