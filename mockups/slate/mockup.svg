@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2400" width="1200" height="2400">
+  <!-- Background -->
+  <rect width="1200" height="2400" fill="#0d1117"/>
+
+  <!-- ==================== NAV ==================== -->
+  <text x="80" y="42" font-family="monospace" font-size="20" font-weight="bold" fill="#58a6ff">JB</text>
+  <text x="580" y="42" font-family="monospace" font-size="14" fill="#8b949e">about</text>
+  <text x="660" y="42" font-family="monospace" font-size="14" fill="#8b949e">experience</text>
+  <text x="780" y="42" font-family="monospace" font-size="14" fill="#8b949e">skills</text>
+  <text x="860" y="42" font-family="monospace" font-size="14" fill="#8b949e">projects</text>
+  <text x="960" y="42" font-family="monospace" font-size="14" fill="#8b949e">contact</text>
+  <text x="1060" y="42" font-family="monospace" font-size="14" fill="#8b949e">[light]</text>
+  <line x1="80" y1="60" x2="1120" y2="60" stroke="#30363d" stroke-width="1"/>
+
+  <!-- ==================== HERO ==================== -->
+  <text x="80" y="220" font-family="monospace" font-size="16" fill="#58a6ff">$ whoami</text>
+  <text x="80" y="290" font-family="monospace" font-size="56" font-weight="bold" fill="#c9d1d9">Justin Bricker</text>
+  <text x="80" y="340" font-family="monospace" font-size="20" fill="#8b949e">Data Engineer | Computational Scientist | AI Enthusiast</text>
+  <text x="80" y="380" font-family="monospace" font-size="16" fill="#484f58">Nashville, TN</text>
+
+  <!-- Social icons as terminal-style brackets -->
+  <rect x="80" y="410" width="40" height="40" rx="0" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <text x="91" y="436" font-family="monospace" font-size="14" fill="#8b949e">GH</text>
+  <rect x="132" y="410" width="40" height="40" rx="0" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <text x="145" y="436" font-family="monospace" font-size="14" fill="#8b949e">LI</text>
+  <rect x="184" y="410" width="40" height="40" rx="0" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <text x="196" y="436" font-family="monospace" font-size="12" fill="#8b949e">@</text>
+
+  <!-- CTA -->
+  <rect x="80" y="480" width="200" height="44" rx="0" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="100" y="508" font-family="monospace" font-size="15" fill="#58a6ff">&gt; view_my_work</text>
+
+  <!-- Blinking cursor hint -->
+  <rect x="80" y="560" width="10" height="20" fill="#58a6ff" opacity="0.7"/>
+
+  <!-- ==================== ABOUT ==================== -->
+  <line x1="80" y1="620" x2="1120" y2="620" stroke="#30363d" stroke-width="1"/>
+  <text x="80" y="680" font-family="monospace" font-size="24" font-weight="bold" fill="#c9d1d9"># about</text>
+
+  <!-- Paragraph lines -->
+  <rect x="80" y="710" width="900" height="10" rx="0" fill="#21262d"/>
+  <rect x="80" y="730" width="820" height="10" rx="0" fill="#21262d"/>
+  <rect x="80" y="750" width="860" height="10" rx="0" fill="#21262d"/>
+  <rect x="80" y="770" width="700" height="10" rx="0" fill="#21262d"/>
+  <rect x="80" y="800" width="880" height="10" rx="0" fill="#21262d"/>
+  <rect x="80" y="820" width="790" height="10" rx="0" fill="#21262d"/>
+  <rect x="80" y="840" width="850" height="10" rx="0" fill="#21262d"/>
+  <rect x="80" y="860" width="600" height="10" rx="0" fill="#21262d"/>
+
+  <!-- ==================== EXPERIENCE ==================== -->
+  <line x1="80" y1="920" x2="1120" y2="920" stroke="#30363d" stroke-width="1"/>
+  <text x="80" y="980" font-family="monospace" font-size="24" font-weight="bold" fill="#c9d1d9"># experience</text>
+
+  <!-- Timeline line -->
+  <line x1="96" y1="1010" x2="96" y2="1280" stroke="#30363d" stroke-width="2"/>
+
+  <!-- Entry 1 -->
+  <circle cx="96" cy="1030" r="6" fill="#58a6ff"/>
+  <text x="130" y="1035" font-family="monospace" font-size="17" font-weight="bold" fill="#c9d1d9">Senior Data Engineer</text>
+  <text x="130" y="1058" font-family="monospace" font-size="14" fill="#58a6ff">Company Name</text>
+  <text x="380" y="1058" font-family="monospace" font-size="13" fill="#484f58">2022 — present</text>
+  <rect x="130" y="1072" width="700" height="8" rx="0" fill="#21262d"/>
+  <rect x="130" y="1088" width="620" height="8" rx="0" fill="#21262d"/>
+
+  <!-- Entry 2 -->
+  <circle cx="96" cy="1130" r="6" fill="#58a6ff"/>
+  <text x="130" y="1135" font-family="monospace" font-size="17" font-weight="bold" fill="#c9d1d9">Data Engineer</text>
+  <text x="130" y="1158" font-family="monospace" font-size="14" fill="#58a6ff">Company Name</text>
+  <text x="380" y="1158" font-family="monospace" font-size="13" fill="#484f58">2019 — 2022</text>
+  <rect x="130" y="1172" width="680" height="8" rx="0" fill="#21262d"/>
+  <rect x="130" y="1188" width="590" height="8" rx="0" fill="#21262d"/>
+
+  <!-- Entry 3 -->
+  <circle cx="96" cy="1230" r="6" fill="#58a6ff"/>
+  <text x="130" y="1235" font-family="monospace" font-size="17" font-weight="bold" fill="#c9d1d9">Computational Scientist</text>
+  <text x="130" y="1258" font-family="monospace" font-size="14" fill="#58a6ff">Lab Name</text>
+  <text x="330" y="1258" font-family="monospace" font-size="13" fill="#484f58">2016 — 2019</text>
+  <rect x="130" y="1272" width="720" height="8" rx="0" fill="#21262d"/>
+  <rect x="130" y="1288" width="640" height="8" rx="0" fill="#21262d"/>
+
+  <!-- ==================== SKILLS ==================== -->
+  <line x1="80" y1="1340" x2="1120" y2="1340" stroke="#30363d" stroke-width="1"/>
+  <text x="80" y="1400" font-family="monospace" font-size="24" font-weight="bold" fill="#c9d1d9"># skills</text>
+
+  <!-- Category 1: Data Engineering -->
+  <text x="80" y="1440" font-family="monospace" font-size="13" fill="#484f58" text-transform="uppercase">DATA ENGINEERING</text>
+  <rect x="80" y="1455" width="100" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="95" y="1474" font-family="monospace" font-size="12" fill="#8b949e">Spark</text>
+  <rect x="190" y="1455" width="100" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="205" y="1474" font-family="monospace" font-size="12" fill="#8b949e">Airflow</text>
+  <rect x="300" y="1455" width="70" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="315" y="1474" font-family="monospace" font-size="12" fill="#8b949e">dbt</text>
+  <rect x="380" y="1455" width="90" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="395" y="1474" font-family="monospace" font-size="12" fill="#8b949e">Kafka</text>
+  <rect x="480" y="1455" width="120" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="495" y="1474" font-family="monospace" font-size="12" fill="#8b949e">ETL/ELT</text>
+
+  <!-- Category 2: Cloud -->
+  <text x="80" y="1520" font-family="monospace" font-size="13" fill="#484f58">CLOUD &amp; INFRA</text>
+  <rect x="80" y="1535" width="70" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="95" y="1554" font-family="monospace" font-size="12" fill="#8b949e">AWS</text>
+  <rect x="160" y="1535" width="70" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="175" y="1554" font-family="monospace" font-size="12" fill="#8b949e">GCP</text>
+  <rect x="240" y="1535" width="110" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="255" y="1554" font-family="monospace" font-size="12" fill="#8b949e">Terraform</text>
+  <rect x="360" y="1535" width="100" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="375" y="1554" font-family="monospace" font-size="12" fill="#8b949e">Docker</text>
+  <rect x="470" y="1535" width="80" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="485" y="1554" font-family="monospace" font-size="12" fill="#8b949e">K8s</text>
+
+  <!-- Category 3: Languages -->
+  <text x="80" y="1600" font-family="monospace" font-size="13" fill="#484f58">LANGUAGES</text>
+  <rect x="80" y="1615" width="90" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="95" y="1634" font-family="monospace" font-size="12" fill="#8b949e">Python</text>
+  <rect x="180" y="1615" width="70" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="195" y="1634" font-family="monospace" font-size="12" fill="#8b949e">SQL</text>
+  <rect x="260" y="1615" width="90" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="275" y="1634" font-family="monospace" font-size="12" fill="#8b949e">Scala</text>
+  <rect x="360" y="1615" width="70" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="375" y="1634" font-family="monospace" font-size="12" fill="#8b949e">Go</text>
+  <rect x="440" y="1615" width="80" height="28" rx="0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="455" y="1634" font-family="monospace" font-size="12" fill="#8b949e">Bash</text>
+
+  <!-- ==================== PROJECTS ==================== -->
+  <line x1="80" y1="1690" x2="1120" y2="1690" stroke="#30363d" stroke-width="1"/>
+  <text x="80" y="1750" font-family="monospace" font-size="24" font-weight="bold" fill="#c9d1d9"># projects</text>
+
+  <!-- Project Card 1 -->
+  <rect x="80" y="1780" width="500" height="200" rx="0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="104" y="1816" font-family="monospace" font-size="16" font-weight="bold" fill="#c9d1d9">Real-Time Data Pipeline</text>
+  <text x="440" y="1816" font-family="monospace" font-size="13" fill="#484f58">[src]</text>
+  <rect x="104" y="1835" width="440" height="8" rx="0" fill="#21262d"/>
+  <rect x="104" y="1851" width="380" height="8" rx="0" fill="#21262d"/>
+  <rect x="104" y="1867" width="400" height="8" rx="0" fill="#21262d"/>
+  <text x="104" y="1950" font-family="monospace" font-size="11" fill="#58a6ff">#Kafka  #Spark  #DeltaLake  #Python</text>
+
+  <!-- Project Card 2 -->
+  <rect x="600" y="1780" width="500" height="200" rx="0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="624" y="1816" font-family="monospace" font-size="16" font-weight="bold" fill="#c9d1d9">ML Model Serving Platform</text>
+  <text x="960" y="1816" font-family="monospace" font-size="13" fill="#484f58">[src]</text>
+  <rect x="624" y="1835" width="440" height="8" rx="0" fill="#21262d"/>
+  <rect x="624" y="1851" width="400" height="8" rx="0" fill="#21262d"/>
+  <rect x="624" y="1867" width="360" height="8" rx="0" fill="#21262d"/>
+  <text x="624" y="1950" font-family="monospace" font-size="11" fill="#58a6ff">#FastAPI  #Docker  #K8s  #Python</text>
+
+  <!-- Project Card 3 -->
+  <rect x="80" y="2000" width="500" height="200" rx="0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="104" y="2036" font-family="monospace" font-size="16" font-weight="bold" fill="#c9d1d9">Scientific Simulation Engine</text>
+  <text x="440" y="2036" font-family="monospace" font-size="13" fill="#484f58">[src]</text>
+  <rect x="104" y="2055" width="430" height="8" rx="0" fill="#21262d"/>
+  <rect x="104" y="2071" width="390" height="8" rx="0" fill="#21262d"/>
+  <rect x="104" y="2087" width="410" height="8" rx="0" fill="#21262d"/>
+  <text x="104" y="2170" font-family="monospace" font-size="11" fill="#58a6ff">#Python  #CUDA  #NumPy  #HPC</text>
+
+  <!-- Project Card 4 -->
+  <rect x="600" y="2000" width="500" height="200" rx="0" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="624" y="2036" font-family="monospace" font-size="16" font-weight="bold" fill="#c9d1d9">NLP Text Analytics</text>
+  <text x="960" y="2036" font-family="monospace" font-size="13" fill="#484f58">[src]</text>
+  <rect x="624" y="2055" width="440" height="8" rx="0" fill="#21262d"/>
+  <rect x="624" y="2071" width="380" height="8" rx="0" fill="#21262d"/>
+  <rect x="624" y="2087" width="420" height="8" rx="0" fill="#21262d"/>
+  <text x="624" y="2170" font-family="monospace" font-size="11" fill="#58a6ff">#PyTorch  #Transformers  #AWS</text>
+
+  <!-- ==================== CONTACT ==================== -->
+  <line x1="80" y1="2250" x2="1120" y2="2250" stroke="#30363d" stroke-width="1"/>
+  <text x="80" y="2310" font-family="monospace" font-size="24" font-weight="bold" fill="#c9d1d9"># contact</text>
+  <text x="80" y="2345" font-family="monospace" font-size="15" fill="#8b949e">$  echo $EMAIL</text>
+  <text x="80" y="2370" font-family="monospace" font-size="15" fill="#58a6ff">   justin@justinbricker.com</text>
+  <text x="80" y="2395" font-family="monospace" font-size="15" fill="#8b949e">$  open github.com/justinbricker</text>
+</svg>

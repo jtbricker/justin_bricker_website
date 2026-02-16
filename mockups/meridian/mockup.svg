@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2400" width="1200" height="2400">
+  <!-- Background -->
+  <rect width="1200" height="2400" fill="#FAFAF8"/>
+
+  <!-- ==================== NAV ==================== -->
+  <text x="80" y="44" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="bold" fill="#1a1a1a">Justin Bricker</text>
+  <text x="700" y="44" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#999999" letter-spacing="1">ABOUT</text>
+  <text x="780" y="44" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#999999" letter-spacing="1">EXPERIENCE</text>
+  <text x="900" y="44" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#999999" letter-spacing="1">SKILLS</text>
+  <text x="970" y="44" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#999999" letter-spacing="1">PROJECTS</text>
+  <text x="1070" y="44" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#999999" letter-spacing="1">CONTACT</text>
+  <line x1="80" y1="62" x2="1120" y2="62" stroke="#E8E4DF" stroke-width="1"/>
+
+  <!-- ==================== HERO ==================== -->
+  <text x="80" y="260" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="bold" fill="#1a1a1a">Justin</text>
+  <text x="80" y="340" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="bold" fill="#1a1a1a">Bricker</text>
+
+  <text x="80" y="390" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#555555" letter-spacing="0.5">Data Engineer · Computational Scientist · AI Enthusiast</text>
+  <text x="80" y="420" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#999999">Nashville, Tennessee</text>
+
+  <line x1="80" y1="450" x2="160" y2="450" stroke="#C2452D" stroke-width="2"/>
+
+  <!-- Social as text links -->
+  <text x="80" y="490" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#C2452D">GitHub</text>
+  <text x="140" y="490" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#999999">·</text>
+  <text x="155" y="490" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#C2452D">LinkedIn</text>
+  <text x="225" y="490" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#999999">·</text>
+  <text x="240" y="490" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#C2452D">Email</text>
+
+  <!-- Brief intro paragraph -->
+  <rect x="80" y="530" width="700" height="10" rx="2" fill="#E8E4DF"/>
+  <rect x="80" y="550" width="650" height="10" rx="2" fill="#E8E4DF"/>
+  <rect x="80" y="570" width="580" height="10" rx="2" fill="#E8E4DF"/>
+
+  <!-- ==================== ABOUT ==================== -->
+  <line x1="80" y1="640" x2="1120" y2="640" stroke="#E8E4DF" stroke-width="1"/>
+  <text x="80" y="710" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="bold" fill="#1a1a1a">About</text>
+  <line x1="80" y1="724" x2="130" y2="724" stroke="#C2452D" stroke-width="2"/>
+
+  <rect x="80" y="750" width="800" height="10" rx="2" fill="#E0DDD8"/>
+  <rect x="80" y="770" width="740" height="10" rx="2" fill="#E0DDD8"/>
+  <rect x="80" y="790" width="780" height="10" rx="2" fill="#E0DDD8"/>
+  <rect x="80" y="810" width="620" height="10" rx="2" fill="#E0DDD8"/>
+
+  <rect x="80" y="845" width="760" height="10" rx="2" fill="#E0DDD8"/>
+  <rect x="80" y="865" width="800" height="10" rx="2" fill="#E0DDD8"/>
+  <rect x="80" y="885" width="680" height="10" rx="2" fill="#E0DDD8"/>
+
+  <!-- ==================== EXPERIENCE ==================== -->
+  <line x1="80" y1="940" x2="1120" y2="940" stroke="#E8E4DF" stroke-width="1"/>
+  <text x="80" y="1010" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="bold" fill="#1a1a1a">Experience</text>
+  <line x1="80" y1="1024" x2="155" y2="1024" stroke="#C2452D" stroke-width="2"/>
+
+  <!-- Entry 1 -->
+  <text x="80" y="1070" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="bold" fill="#1a1a1a">Senior Data Engineer</text>
+  <text x="80" y="1095" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#C2452D">Company Name</text>
+  <text x="250" y="1095" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#999999">2022 — Present</text>
+  <rect x="80" y="1110" width="700" height="8" rx="2" fill="#E8E4DF"/>
+  <rect x="80" y="1126" width="620" height="8" rx="2" fill="#E8E4DF"/>
+
+  <!-- Entry 2 -->
+  <line x1="80" y1="1160" x2="400" y2="1160" stroke="#F0ECE8" stroke-width="1"/>
+  <text x="80" y="1195" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="bold" fill="#1a1a1a">Data Engineer</text>
+  <text x="80" y="1220" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#C2452D">Company Name</text>
+  <text x="250" y="1220" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#999999">2019 — 2022</text>
+  <rect x="80" y="1235" width="680" height="8" rx="2" fill="#E8E4DF"/>
+  <rect x="80" y="1251" width="600" height="8" rx="2" fill="#E8E4DF"/>
+
+  <!-- Entry 3 -->
+  <line x1="80" y1="1285" x2="400" y2="1285" stroke="#F0ECE8" stroke-width="1"/>
+  <text x="80" y="1320" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="bold" fill="#1a1a1a">Computational Scientist</text>
+  <text x="80" y="1345" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#C2452D">Lab Name</text>
+  <text x="220" y="1345" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#999999">2016 — 2019</text>
+  <rect x="80" y="1360" width="720" height="8" rx="2" fill="#E8E4DF"/>
+  <rect x="80" y="1376" width="640" height="8" rx="2" fill="#E8E4DF"/>
+
+  <!-- ==================== SKILLS ==================== -->
+  <line x1="80" y1="1430" x2="1120" y2="1430" stroke="#E8E4DF" stroke-width="1"/>
+  <text x="80" y="1500" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="bold" fill="#1a1a1a">Skills</text>
+  <line x1="80" y1="1514" x2="120" y2="1514" stroke="#C2452D" stroke-width="2"/>
+
+  <!-- Two-column skills -->
+  <!-- Left column -->
+  <text x="80" y="1555" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#999999" letter-spacing="2">DATA ENGINEERING</text>
+  <text x="80" y="1580" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#555555">Spark · Airflow · dbt · Kafka · ETL/ELT</text>
+
+  <text x="80" y="1625" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#999999" letter-spacing="2">CLOUD &amp; INFRASTRUCTURE</text>
+  <text x="80" y="1650" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#555555">AWS · GCP · Terraform · Docker · Kubernetes</text>
+
+  <text x="80" y="1695" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#999999" letter-spacing="2">LANGUAGES</text>
+  <text x="80" y="1720" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#555555">Python · SQL · Scala · Java · Go · Bash</text>
+
+  <!-- Right column -->
+  <text x="600" y="1555" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#999999" letter-spacing="2">AI / MACHINE LEARNING</text>
+  <text x="600" y="1580" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#555555">PyTorch · TensorFlow · LLMs · NLP · CV</text>
+
+  <text x="600" y="1625" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#999999" letter-spacing="2">TOOLS &amp; PLATFORMS</text>
+  <text x="600" y="1650" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#555555">Git · Linux · Databricks · Snowflake · Redis</text>
+
+  <!-- ==================== PROJECTS ==================== -->
+  <line x1="80" y1="1780" x2="1120" y2="1780" stroke="#E8E4DF" stroke-width="1"/>
+  <text x="80" y="1850" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="bold" fill="#1a1a1a">Projects</text>
+  <line x1="80" y1="1864" x2="140" y2="1864" stroke="#C2452D" stroke-width="2"/>
+
+  <!-- Project 1 -->
+  <text x="80" y="1910" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="bold" fill="#1a1a1a">Real-Time Data Pipeline</text>
+  <rect x="80" y="1925" width="700" height="8" rx="2" fill="#E8E4DF"/>
+  <rect x="80" y="1941" width="600" height="8" rx="2" fill="#E8E4DF"/>
+  <text x="80" y="1975" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#999999" font-style="italic">Kafka, Spark, Delta Lake, Python</text>
+  <line x1="80" y1="2000" x2="500" y2="2000" stroke="#F0ECE8" stroke-width="1"/>
+
+  <!-- Project 2 -->
+  <text x="80" y="2035" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="bold" fill="#1a1a1a">ML Model Serving Platform</text>
+  <rect x="80" y="2050" width="680" height="8" rx="2" fill="#E8E4DF"/>
+  <rect x="80" y="2066" width="580" height="8" rx="2" fill="#E8E4DF"/>
+  <text x="80" y="2100" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#999999" font-style="italic">FastAPI, Docker, Kubernetes, Python</text>
+  <line x1="80" y1="2125" x2="500" y2="2125" stroke="#F0ECE8" stroke-width="1"/>
+
+  <!-- Project 3 -->
+  <text x="80" y="2160" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="bold" fill="#1a1a1a">Scientific Simulation Engine</text>
+  <rect x="80" y="2175" width="720" height="8" rx="2" fill="#E8E4DF"/>
+  <rect x="80" y="2191" width="640" height="8" rx="2" fill="#E8E4DF"/>
+  <text x="80" y="2225" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#999999" font-style="italic">Python, CUDA, NumPy, HPC</text>
+
+  <!-- ==================== CONTACT ==================== -->
+  <line x1="80" y1="2270" x2="1120" y2="2270" stroke="#E8E4DF" stroke-width="1"/>
+  <text x="460" y="2330" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#1a1a1a" text-anchor="middle">Get in Touch</text>
+  <line x1="430" y1="2344" x2="490" y2="2344" stroke="#C2452D" stroke-width="2"/>
+
+  <text x="460" y="2380" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#C2452D" text-anchor="middle">justin@justinbricker.com</text>
+
+  <!-- Footer -->
+  <text x="460" y="2395" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#999999" text-anchor="middle">GitHub · LinkedIn</text>
+</svg>
