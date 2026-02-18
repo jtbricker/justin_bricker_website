@@ -68,7 +68,7 @@
 (function () {
     // Add fade-in class to animatable elements
     var animatable = document.querySelectorAll(
-        '.timeline-item, .skill-category, .project-card, .education-card, .publication-item, .about-content, .contact-content'
+        '.timeline-item, .skill-category, .project-card, .education-card, .publication-item, .about-content, .contact-content, .process-step, .case-study, .philosophy-item'
     );
     animatable.forEach(function (el) {
         el.classList.add('fade-in');
